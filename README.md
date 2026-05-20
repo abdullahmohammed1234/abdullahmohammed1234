@@ -71,11 +71,11 @@ StormHacks 2025 winner food sustainability platform for reducing food waste thro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahmohammed1234&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahmohammed1234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmohammed1234&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=abdullahmohammed1234&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
