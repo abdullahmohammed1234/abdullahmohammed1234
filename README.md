@@ -92,7 +92,7 @@ StormHacks 2025 winner food sustainability platform for reducing food waste thro
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abdalla-mohamed-mohamed-elboraei-95bb1b369/
+- 💼 LinkedIn: https://www.linkedin.com/in/abdalla-elboraei/
 - 🌐 Portfolio: https://abdullahmohammed1234.github.io/Portfolio/
 - 📫 Email: abdullahelboraei@gmail.com
 
